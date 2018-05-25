@@ -1,1 +1,4 @@
 Hello My first file
+apple
+banana
+fruit
